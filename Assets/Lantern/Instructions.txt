@@ -1,0 +1,5 @@
+This lantern uses a script which enables and disables parts of the Lantern Prefabs childed objects,
+the light and the particle affect are affected. Pressing 'L' at runtime will toggle the lantern.
+
+contact me@robertramsay.co.uk
+if you need any more help.
