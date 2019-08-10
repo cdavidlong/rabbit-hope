@@ -1,16 +1,13 @@
-### Date created
-8/08/2019
-
 ### Project Title
 Rabbit Hope
 
 ### Versions
-GoogleVR SDK version 1.70.0
-Unity version 2019.2.0f1 Personal
+- GoogleVR SDK version 1.70.0
+- Unity version 2019.2.0f1 Personal
 
 ### Video
-Walk through:     https://youtu.be/c2rVIkvxtlg
-Achievements:     https://youtu.be/cxBzFu8CcF8
+- Walk through:     https://youtu.be/c2rVIkvxtlg
+- Achievements:     https://youtu.be/cxBzFu8CcF8
 
 ### Description
 This was a submission for the Udacity Virtual Reality Developer (for mobile) nanodegree.
